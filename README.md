@@ -11,7 +11,7 @@ This analysis helps businesses:
 - Improve festival-time marketing
 
   How to Use
-   1. Clone the Repository
+ 1. Clone the Repository
 git clone https://github.com/yourusername/diwali-sales-analysis.git
 cd diwali-sales-analysis
 2. Open Jupyter Notebook
